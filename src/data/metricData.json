@@ -1,0 +1,23 @@
+{
+   "Card On Duty":{
+      "Total":20,
+      "On Duty":14
+   },
+   "Card Attendance":{
+      "Total":14,
+      "Attend":12
+   },
+   "Card Feed Activity":{
+      "Total feed":4,
+      "Total person":5
+   },
+   "Card Patrol":{
+      "Total Patrol":2
+   },
+   "Card Non Schedule":{
+      "Total person":3
+   },
+   "Card Non Geofence":{
+      "Total person":7
+   }
+}
