@@ -1,5 +1,3 @@
-import { useState, useEffect } from "react";
-import * as echarts from "echarts";
 import ReactECharts from "echarts-for-react";
 import attendanceData from "../data/attendanceData.json";
 

@@ -1,5 +1,5 @@
 import React from "react";
-import { Sun, Moon, Bell, User, Search } from "lucide-react";
+import { Sun, Moon, User } from "lucide-react";
 import { useTheme } from "../context/ThemeContext";
 
 const Header = ({ toggleSidebar }) => {
